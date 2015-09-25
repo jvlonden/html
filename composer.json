@@ -1,0 +1,18 @@
+{
+    "name": "vanlonden/html",
+    "description": "OOP HTML builder",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jordy van Londen",
+            "email": "jordy.vanlonden@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "VanLonden": "src/"
+        }
+    }
+}

@@ -1,7 +1,6 @@
 <?php
 namespace VanLonden\Html\Attributes;
 
-
 class Attribute
 {
     /**
