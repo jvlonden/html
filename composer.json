@@ -3,6 +3,7 @@
     "description": "OOP HTML builder",
     "type": "library",
     "license": "MIT",
+    "version": "0.0.1",
     "authors": [
         {
             "name": "Jordy van Londen",
@@ -12,7 +13,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "VanLonden": "src/"
+            "VanLonden\\Html\\": "src/"
         }
     }
 }
